@@ -48,6 +48,6 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName('Project Crawler')
+QApplication.setApplicationName('Python Web Browser')
 window = MainWindow()
 app.exec_()
