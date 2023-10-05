@@ -12,3 +12,4 @@ pip install PyQt5
 ```bash
 python Browser.py
 ```
+You can also use **Pyinstaller** to generate a quick-to-run exe file.
